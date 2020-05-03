@@ -14,3 +14,7 @@ fff | ggg| hhh | iii | 000|
 ```
 ## 注意
 1. github上的readme.md不支持`[toc]`写法，不能这样生成目录
+
+### 上下标
+(100)<sub>2</sub>
+(100)<sup>b2</sup>
