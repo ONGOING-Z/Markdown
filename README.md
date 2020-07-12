@@ -18,3 +18,9 @@ fff | ggg| hhh | iii | 000|
 ### 上下标
 (100)<sub>2</sub>
 (100)<sup>b2</sup>
+
+### [链接写法][1]
+
+![link_correct](./images/link.PNG)
+
+[1]: https://medium.com/better-programming/master-markdown-in-ten-minutes-ce9721c51eb
